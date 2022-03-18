@@ -53,7 +53,7 @@
     height: 70px;
     position: absolute;
     left: 581.5px;
-    top: 200px;
+    top: 300px;
     z-index: 30;
     animation:  rotate 0.3s linear infinite 1s;
 }
@@ -62,7 +62,7 @@
     position: absolute;
     height: 70px;
     left: 859px;
-    top: 200px;
+    top: 300px;
     z-index: 30;
     animation:  rotate 0.3s linear infinite 1s;
 }
